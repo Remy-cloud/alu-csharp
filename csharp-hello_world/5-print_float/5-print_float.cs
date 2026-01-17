@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string [] args)
     {
-        string label = "Float: ";
-        Console.WriteLine($"{label} {number:F2}");
+        float number = 98.97f;
+        Console.WriteLine($"Float: {number:F2}");
     }
 }
