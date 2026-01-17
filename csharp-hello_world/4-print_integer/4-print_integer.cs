@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int number = int.Parse(args[0]);
+        int[] numbers = { 333, -972, 0 };
         string street = "Mission Street";
         Console.WriteLine(number + " " + street);
     }
