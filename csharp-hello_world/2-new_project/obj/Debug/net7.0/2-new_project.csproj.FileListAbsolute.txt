@@ -1,0 +1,14 @@
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/bin/Debug/net7.0/2-new_project
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/bin/Debug/net7.0/2-new_project.deps.json
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/bin/Debug/net7.0/2-new_project.runtimeconfig.json
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/bin/Debug/net7.0/2-new_project.dll
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/bin/Debug/net7.0/2-new_project.pdb
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.AssemblyInfoInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.AssemblyInfo.cs
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.csproj.CoreCompileInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.dll
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/refint/2-new_project.dll
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.pdb
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/2-new_project.genruntimeconfig.cache
+/Users/Roy/Documents/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/net7.0/ref/2-new_project.dll
