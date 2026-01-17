@@ -1,9 +1,9 @@
 ﻿using System;
 
-class program
+class Program
 {
     static void Main(string[] args)
     {
-        console.writeline("\"Programming is like building a multilingual puzzle");
+        Console.Writeline("\"Programming is like building a multilingual puzzle");
     }
 }
