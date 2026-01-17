@@ -4,7 +4,7 @@ mkdir -p 2-new_project
 
 cd 2-new_project || exit 1
 
-dotnet console
+dotnet new console
 
 dotnet build 
 
