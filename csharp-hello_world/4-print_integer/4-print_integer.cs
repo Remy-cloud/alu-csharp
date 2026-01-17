@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int number = 333;
+        int number;
         string street = "Mission Street";
         Console.WriteLine(number + " " + street);
     }
