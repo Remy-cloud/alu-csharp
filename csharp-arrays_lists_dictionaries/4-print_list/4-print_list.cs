@@ -16,8 +16,9 @@ class List
         for (int i = 0; i < size; i++)
         {
             list.Add(i);
-            Console.WriteLine(i);
         }
+
+        Console.WriteLine(string.Join(" ", list));
 
         return list;
     }
