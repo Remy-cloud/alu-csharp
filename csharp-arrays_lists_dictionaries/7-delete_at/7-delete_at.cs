@@ -11,14 +11,8 @@ class List
             return myList;
         }
 
-        List<int> result = new List<int>();
+        myList.Remove(myList[index]);
 
-        for (int i = 0; i < myList.Count; i++)
-        {
-            if (i != index)
-                result.Add(myList[i]);
-        }
-
-        return result;
+        return myList;
     }
 }
