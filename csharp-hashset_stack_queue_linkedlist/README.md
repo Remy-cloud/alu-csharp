@@ -1,0 +1,1 @@
+readme file for hashset, stack, queue, and linkedlist examples in C#.
