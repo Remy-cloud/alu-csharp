@@ -20,7 +20,7 @@ class MyStack
 
         // Check if stack contains search item
         bool contains = aStack.Contains(search);
-        Console.WriteLine("Stack contains " + search + ": " + contains);
+        Console.WriteLine("Stack contains \"" + search + "\": " + contains);
 
         // If contains, remove all items up to and including search
         if (contains)
