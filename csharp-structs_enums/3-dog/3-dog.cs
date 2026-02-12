@@ -24,7 +24,6 @@ public struct Dog
 
     public override string ToString()
     {
-        string article = (rating == Rating.Excellent) ? "an" : "a";
-        return $"My name is {name} and I am {age}. I am {article} {rating} dog. :)";
+        return $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
     }
 }
