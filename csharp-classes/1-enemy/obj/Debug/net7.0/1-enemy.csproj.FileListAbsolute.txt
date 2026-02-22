@@ -1,0 +1,13 @@
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.AssemblyInfoInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.AssemblyInfo.cs
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.csproj.CoreCompileInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.deps.json
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.dll
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.pdb
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.xml
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.dll
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/refint/1-enemy.dll
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.xml
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.pdb
+/Users/Roy/Documents/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/ref/1-enemy.dll
