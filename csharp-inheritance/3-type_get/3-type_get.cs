@@ -4,32 +4,26 @@ using System.Reflection;
 /// <summary>
 /// Provides reflection methods for objects.
 /// </summary>
-namespace _3_type_get
+public class Obj
 {
     /// <summary>
-    /// Contains methods to inspect object types.
+    /// Prints the properties and methods of an object.
     /// </summary>
-    public class Obj
+    /// <param name="myObj">The object to inspect.</param>
+    public static void Print(object myObj)
     {
-        /// <summary>
-        /// Prints the properties and methods of an object.
-        /// </summary>
-        /// <param name="myObj">The object to inspect.</param>
-        public static void Print(object myObj)
+        Type type = myObj.GetType();
+
+        Console.WriteLine($"{type.Name} Properties:");
+        foreach (PropertyInfo property in type.GetProperties())
         {
-            Type type = myObj.GetType();
+            Console.WriteLine(property.Name);
+        }
 
-            Console.WriteLine($"{type.Name} Properties:");
-            foreach (PropertyInfo property in type.GetProperties())
-            {
-                Console.WriteLine(property.Name);
-            }
-
-            Console.WriteLine($"{type.Name} Methods:");
-            foreach (MethodInfo method in type.GetMethods())
-            {
-                Console.WriteLine(method.Name);
-            }
+        Console.WriteLine($"{type.Name} Methods:");
+        foreach (MethodInfo method in type.GetMethods())
+        {
+            Console.WriteLine(method.Name);
         }
     }
 }
