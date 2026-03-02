@@ -1,4 +1,4 @@
-﻿namespace ObjTests
+﻿namespace _0_is
 {
     /// <summary>
     /// Provides object type checking operations.
