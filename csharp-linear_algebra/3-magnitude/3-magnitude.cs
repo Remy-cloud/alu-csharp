@@ -17,7 +17,7 @@ namespace LinearAlgebra
         /// </returns>
         public static double Magnitude(double[] vector)
         {
-            if (vector == null)
+            if (vector == null || vector.Length == 0)
                 return -1;
 
             if (vector.Length == 2)
@@ -37,7 +37,6 @@ namespace LinearAlgebra
             }
             else
             {
-                // Not 2D or 3D
                 return -1;
             }
         }
