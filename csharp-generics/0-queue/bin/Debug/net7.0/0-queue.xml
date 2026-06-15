@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>0-queue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            Represents a generic queue.
+            </summary>
+            <typeparam name="T">The type of elements in the queue.</typeparam>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            Checks the type of the queue.
+            </summary>
+            <returns>The type of T.</returns>
+        </member>
+    </members>
+</doc>
