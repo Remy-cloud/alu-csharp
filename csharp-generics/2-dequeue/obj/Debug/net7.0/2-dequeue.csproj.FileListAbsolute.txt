@@ -1,0 +1,16 @@
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue.deps.json
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue.runtimeconfig.json
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue.dll
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue.pdb
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/bin/Debug/net7.0/2-dequeue.xml
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.AssemblyInfoInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.AssemblyInfo.cs
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.csproj.CoreCompileInputs.cache
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.dll
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/refint/2-dequeue.dll
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.xml
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.pdb
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/2-dequeue.genruntimeconfig.cache
+/Users/Roy/Documents/alu-csharp/csharp-generics/2-dequeue/obj/Debug/net7.0/ref/2-dequeue.dll

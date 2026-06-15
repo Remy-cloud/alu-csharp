@@ -16,7 +16,7 @@ class Queue<T>
         /// <summary>
         /// The next node in the queue.
         /// </summary>
-        public Node next = null;
+        public Node? next = null;
 
         /// <summary>
         /// Constructor for the node.
@@ -28,8 +28,8 @@ class Queue<T>
         }
     }
 
-    private Node head;
-    private Node tail;
+    private Node? head;
+    private Node? tail;
     private int count;
 
     /// <summary>

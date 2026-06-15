@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-dequeue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            Represents a generic queue.
+            </summary>
+            <typeparam name="T">The type of elements in the queue.</typeparam>
+        </member>
+        <member name="F:Queue`1.Node.value">
+            <summary>
+            The value of the node.
+            </summary>
+        </member>
+        <member name="F:Queue`1.Node.next">
+            <summary>
+            The next node in the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>
+            Constructor for the node.
+            </summary>
+            <param name="val">The value of the node.</param>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            Checks the type of the queue.
+            </summary>
+            <returns>The type of T.</returns>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            Adds a new node to the end of the queue.
+            </summary>
+            <param name="value">The value to add.</param>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>
+            Removes the first node in the queue and returns its value.
+            </summary>
+            <returns>The value of the first node.</returns>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            Returns the number of nodes in the queue.
+            </summary>
+            <returns>The number of nodes.</returns>
+        </member>
+    </members>
+</doc>
